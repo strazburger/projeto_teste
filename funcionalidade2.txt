@@ -1,1 +1,1 @@
-Teste de funcionalidade2
+Eu mudei isso para dar conflito.
